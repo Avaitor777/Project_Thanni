@@ -68,8 +68,8 @@ header h1 {
 .about {
     max-width: 600px;
     margin: 0 auto;
-    padding: 20px;
-    background: rgba(255, 255, 255, 0.1);
+    padding: 10px;
+    background: rgba(235, 232, 232, 0.1);
     border-radius: 10px;
     margin-bottom: 30px;
 }
@@ -136,8 +136,8 @@ footer p {
 /* Scroll Down Icon */
 .scroll-down {
     position: fixed;
-    top: 70px;   /* Position it towards the bottom of the screen */
-    right: 60px;    /* Position it towards the right */
+    bottom: 10px;   /* Position it towards the bottom of the screen */
+    right: 10px;    /* Position it towards the right */
     font-size: 5em; /* Increase the size of the icon */
     color: white;   /* White color for the icon */
     animation: bounce 1.5s infinite; /* Bounce animation */
